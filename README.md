@@ -1,1 +1,1 @@
-<p> Lista de Tarefas com JS </p>
+<h1> Lista de Tarefas com JS </h1>
